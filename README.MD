@@ -55,17 +55,6 @@ Developed **6 detailed SSRS reports** to visualize:
 
 ---
 
-##  Team Members
-This project was built by a great team who worked together through all challenges and late nights:
-
-- **Omar Zahran**  
-- **Ahmed Medhat**  
-- **Youssef Ashraf**  
-- **Youssef Sabal**  
-- **Raafat Elrais**
-
----
-
 ##  Key Features
  Dynamic question generation for each exam.  
  Secure student login and result tracking.  
